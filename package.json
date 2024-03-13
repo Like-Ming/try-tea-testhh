@@ -1,0 +1,22 @@
+{
+  "name": "try-tea-testhh",
+  "version": "1.0.0",
+  "description": "try to test tea 2 time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Like-Ming/try-tea-testhh.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Like-Ming/try-tea-testhh/issues"
+  },
+  "homepage": "https://github.com/Like-Ming/try-tea-testhh#readme"
+}
